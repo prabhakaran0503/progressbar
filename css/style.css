@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+#outter{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(72, 145, 240);
+    position: relative;
+    margin: 10px auto;
+}
+#innerloade{
+    height: 40px;
+    background-color: rgb(0, 255, 255);
+    position: absolute;
+}
+#para{
+    font-size: 25px;
+    margin: 20px auto;
+}
+#btn{
+    padding: 10px;
+    margin: 10px auto;
+    background-color: rgb(228, 138, 138);
+}
